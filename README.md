@@ -1,4 +1,0 @@
-vdr-live
-========
-
-vdr-live
